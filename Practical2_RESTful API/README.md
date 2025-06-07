@@ -18,17 +18,17 @@ cd weather-api-app
 const WEATHER_API_KEY = 'your_api_key_here';
 
 3. Open index.html in your browser
-
+```
 ### How to Use
-Get Weather Data
-Enter a city name
+* Get Weather Data
+* Enter a city name
 
 ### View current weather conditions
-https://./screenshots/weather-display.png
+ https://./screenshots/weather-display.png 
 
 ### Manage Locations
-Save: Fill the location form
+* Save: Fill the location form
 https://./screenshots/save-location.png
 
-Edit/Delete: Manage saved locations
+* Edit/Delete: Manage saved locations
 https://./screenshots/edit-modal.png

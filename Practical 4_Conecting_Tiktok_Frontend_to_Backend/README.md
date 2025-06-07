@@ -1,6 +1,4 @@
 
-
-```markdown
 # TikTok Clone - Frontend/Backend Integration
 
 **Note:** The implementation of this practical 4 resides in the `practical1-tiktok` directory. This documentation serves as a reference guide.

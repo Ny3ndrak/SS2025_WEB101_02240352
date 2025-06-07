@@ -1,6 +1,5 @@
 
-```markdown
-# Practical 5: Infinite Scroll Implementation 📱
+# Practical 5: Infinite Scroll Implementation 
 
 ## Implementation Note ℹ️
 The working code is located in the `practical1-tiktok` folder. This directory only contains `README.md` and `Reflection.md` files.

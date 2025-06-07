@@ -1,6 +1,5 @@
 
-```markdown
-# Practical 5: Infinite Scroll Implementation Reflection 🤔
+# Practical 5: Infinite Scroll Implementation Reflection 
 
 ## Core Documentation 
 

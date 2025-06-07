@@ -1,7 +1,5 @@
 # Next.js File Upload Application
 
-![File Upload Interface](./screenshots/upload-interface.png)
-
 ## Features
 - Drag and drop file upload
 - File validation (type and size)
